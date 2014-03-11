@@ -12,18 +12,39 @@
    </div>
     <div id="caption">
       <h4>its our life</h4>
-     <div>
+    </div>
     <div id="menu"> 
      <ul>
-     <li><a href="Home.html">Home</a></li>
-     <li><a href="#">About</a></li>
-     <li><a href="#">Contact</a></li>
-     <li><a href="#">Login</a></li>
-     </div> 
+      <li><a href="Home.html">Home</a></li>
+      <li><a href="About.html">About</a></li>
+      <li><a href="Contact.html">Contact</a></li>
+      <li><a href="Login.html">Login</a></li>
+     </ul>
+    </div> 
 </div>
 <div class="content">
    <a href="Home.html">Home</a>
     <p>Nature, in the broadest sense, is equivalent to the natural, physical, or material world or universe. "Nature" refers to the phenomena of the physical world, and also to life in general. It ranges in scale from the subatomic to the cosmic.
    </p>
-   <p><a href="#" class="button">Read more</a></p>
-    </div>
+ <p>Nature, in the broadest sense, is equivalent to the natural, physical, or    material world or universe. "Nature" refers to the phenomena of the physical world, and also to life in general. It ranges in scale from the subatomic to the cosmic.
+       </p>
+<p>Nature, in the broadest sense, is equivalent to the natural, physical, or    material world or universe. "Nature" refers to the phenomena of the physical world, and also to life in general. It ranges in scale from the subatomic to the cosmic.
+       </p>
+   <p><a href="Home.html" class="button">Read more</a></p>
+   <p><a href="test1.html" class="button">Back</a></p>
+</div>
+<div class="footer">
+  <div id="footer menu"> 
+     <ul>
+      <li><a href="Home.html">Home</a></li>
+      <li><a href="About.html">About</a></li>
+      <li><a href="Contact.html">Contact</a></li>
+      <li><a href="Login.html">Login</a></li>
+     </ul>
+     </div> 
+  <div id="copyright">
+     © Copyright Devoloping Dept., Hyderabad District. All Rights Reserved.<br>
+  </div>
+</div>
+</body>
+</html>
